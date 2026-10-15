@@ -1,0 +1,477 @@
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-image: url("https://codehs.com/uploads/fea8d4362fe946161e0d3caff82e822a");
+    background-size: cover;
+    font-family: "IM Fell Great Primer", serif;
+    box-sizing: border-box;
+}
+/*.SheKill3{*/
+/*    img{*/
+/*        max-width:350px;*/
+/*        max-height:450px;*/
+/*    }*/
+/*}*/
+
+ .Ui1{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    top:450px;
+                    /*margin-left:10px;*/
+                }
+            }
+            .Ui2{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*top:450px;*/
+                    /*margin-left:400px;*/
+                }
+            }
+            .Ui3{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*top:710px;*/
+                    /*margin-left:10px;*/
+                }
+            }
+            .Ui4{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*top:710px;*/
+                    /*margin-left:400px;*/
+                }
+            }
+            /*h3{*/
+            /*    text-align:center;*/
+            /*    margin-top:550px;*/
+            /*    font-size:20px;*/
+            /*}*/
+            .Diane1{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*margin-left:10px;*/
+                    /*top:1190px;*/
+                }
+            }
+            
+            .Diane2{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*margin-left:400px;*/
+                    /*top:1190px;*/
+                }
+            }
+            .Diane3{
+                img{
+                    max-width:350px;
+                    max-height:450px;
+                    /*margin-left:10px;*/
+                    /*top:1450px;*/
+                }
+            }
+            .Diane4{
+                img{
+                    max-width:350px;
+                    max-height:450px;
+                    /*margin-left:400px;*/
+                    /*top:1450px;*/
+                }
+            }
+            /*h4{*/
+            /*    text-align:center;*/
+            /*    margin-top:750px;*/
+            /*    font-size:20px;*/
+            /*}*/
+            .SheKill1{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*margin-left:10px;*/
+                }
+            }
+            .SheKill2{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*margin-left:400px;*/
+                }
+            }
+            .SheKill3{
+                img{
+                    max-width:350px;
+                    max-height:450px;
+                    /*margin-left:10px;*/
+                    /*margin-top:260px;*/
+                }
+            }
+            .SheKill4{
+                img{
+                    max-width:350px;
+                    max-height:450px;
+                    /*margin-left:400px;*/
+                    /*margin-top:260px;*/
+                }
+            }          
+            /*h5{*/
+            /*    text-align:center;*/
+            /*    margin-top:750px;*/
+            /*    font-size:20px;*/
+            /*}*/
+            .Sween1{
+                img{
+                    max-width:350px;
+                    max-height:250px;
+                    /*margin-left:10px;*/
+                }
+            }
+          .Sween2{
+              img{
+                  max-width:350px;
+                  max-height:250px;
+                  /*margin-left:400px;*/
+              }
+          }
+          .Sween3{
+              img{
+                  max-width:350px;
+                  max-height:450px;
+                  /*margin-left:10px;*/
+                  /*margin-top:260px;*/
+              }
+          }
+          .Sween4{
+              img{
+                  max-width:350px;
+                  max-height:450px;
+                  /*margin-left:400px;*/
+                  /*margin-top:260px;*/
+              }
+          }
+          /*h6{*/
+          /*    text-align:center;*/
+          /*    font-size:20px;*/
+          /*    margin-top:750px;*/
+          /*}*/
+          .Rumors1{
+              img{
+                  max-width:350px;
+                  max-height:250px;
+                  /*margin-left:10px;*/
+              }
+          }
+          .Rumors2{
+              img{
+                  max-width:350px;
+                  max-height:250px;
+                  /*margin-left:400px;*/
+              }
+          }
+          .Rumors3{
+              img{
+                  max-width:350px;
+                  max-height:250px;
+                  /*margin-left:10px;*/
+                  /*margin-top:260px;*/
+              }
+          }
+          .Rumors4{
+              img{
+                  max-width:350px;
+                  max-height:250px;
+                  /*margin-left:400px;*/
+                  /*margin-top:260px;*/
+              }
+          } 
+          .Me2{
+              img{
+                  max-width:450px;
+                  max-height:490px;
+              }
+          }
+          
+         /* .button1{*/
+         /*     img{*/
+         /*         justify-content:center;*/
+                  /*margin-left:10px;*/
+         /*     }*/
+         /* }*/
+          
+          
+         /*.button2{*/
+         /*    img{*/
+         /*         justify-content:center;*/
+                  /*margin-right: 10px;*/
+         /*    }*/
+         /*} */
+          
+          
+          
+          .Build1{
+              img{
+                  align-items:center;
+                  justify-content:center;
+                  box-sizing:border-box;
+                  /*margin-left:25%;*/
+                  max-width:500px;
+                  max-height:350px;
+                  
+              }
+          }
+
+    .button1{
+              img{
+                  max-width:350;
+                  max-height:250;
+                  /*margin-top:300px;*/
+                  justify-content:center;
+                  /*margin-left:10px;*/
+              }
+          }
+          
+          
+         .button2{
+             img{
+                  justify-content:center;
+                  /*margin-right: 10px;*/
+             }
+         } 
+
+
+.container {
+    width: 50%;
+               height: 100%;
+               display: flex;
+    
+              justify-content:center;
+              /*align-items: center;*/
+              position: absolute;
+              top:25%;
+              min-height:190vh;
+               background-color: white;
+             margin: auto;
+                margin-top:-px;
+                 margin-left:25%;
+                margin-right:25%;
+                margin-bottom:px;
+                
+    /*width: 90%;*/
+    /*max-width: 800px;*/
+    /*margin: 40px auto;*/
+    /*background-color: white;*/
+    /*padding: 30px;*/
+    /*box-sizing: border-box;*/
+    /*top: 20px;*/
+    /*min-height:600vh;*/
+    /* margin: auto;*/
+    /*     margin-top:-px;*/
+    /*     margin-left:25%;*/
+    /*     margin-right:25%;*/
+    /*     margin-bottom:px;*/
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.Frame{
+    
+}
+
+ /*Headings */
+h1, h2, h3, h4, h5, h6, h7{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size:20px;
+}
+/*h7{*/
+/*    text-align:center;*/
+/*    font-family: "IM Fell Great Primer", serif;*/
+/*    font-size:20px;*/
+/*}*/
+
+h1 {
+    margin-top:15px;
+    font-size: 45px;
+}
+
+.textUi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 15px;
+    max-height:300px;
+}
+
+.textUi h1, .textUi h2, .textUi h3, .textUi h4, .textUi h5, .textUi h6, .text h7,
+.textUi p, .textUi hr {
+    width: 100%;
+}
+
+.Ui1, .Ui2, .Ui3, .Ui4,
+.Diane1, .Diane2, .Diane3, .Diane4,
+.SheKill1, .SheKill2, .Shekill3, .SheKill4,
+.Sween1, .Sween2, .Sween3, .Sween4,
+.Rumors1, .Rumors2, .Rumors3, .Rumors4, .Me1, .Me2, {
+    width: 48%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    
+    /*min-height:1000vh;*/
+}
+
+@media (max-width: 600px) {
+    .Ui1, .Ui2, .Ui3, .Ui4,
+    .Diane1, .Diane2, .Diane3, .Diane4,
+    .SheKill1, .SheKill2, .Shekill3, .SheKill4,
+    .Sween1, .Sween2, .Sween3, .Sween4,
+    .Rumors1, .Rumors2, .Rumors3, .Rumors4, .Me1, .Me2, .button1, .button2, .Build1 {
+        width: 100%; 
+        /*height:100%;*/
+    }
+}
+  
+  
+  
+  
+  
+    /*body{*/
+    /*    margin:0;*/
+    /*    padding:0;*/
+    /*    min-height: 100vh;*/
+    /*        background-image: url("https://codehs.com/uploads/fea8d4362fe946161e0d3caff82e822a");*/
+    /*        background-repeat: no-repeat;*/
+    /*        background-size: cover;*/
+    /*        box-sizing:border-box;*/
+            
+            
+    /*        }*/
+       
+        
+    /*        h1 {*/
+    /*            color: Black;*/
+    /*            font-size: 45px;*/
+    /*            font-family: "IM Fell Great Primer", serif;*/
+                /*background-color: white;*/
+                /*top: -11px;*/
+                /*left: 0px;*/
+                /*Right: 0px;*/
+                /*position: relative;*/
+                /*height: 100%;*/
+                /*z-index: 2;*/
+    /*         margin:0 auto 0 auto;*/
+    /*         max-width: 500px;*/
+    /*         margin-top:25%;*/
+            
+             
+    /*        }*/
+    /*        .container{*/
+    /*           width: 50%;*/
+    /*           height: 100%;*/
+    /*           display: flex;*/
+    
+    /*          justify-content:center;*/
+              /*align-items: center;*/
+    /*          position: absolute;*/
+    /*          top: 20px;*/
+    /*           background-color: white;*/
+    /*         margin: auto;*/
+    /*            margin-top:-px;*/
+    /*             margin-left:25%;*/
+    /*            margin-right:25%;*/
+    /*            margin-bottom:0px;*/
+    /*        }*/
+    /*        .button1{*/
+    /*            img{*/
+                  
+    /*                margin-left:450px;*/
+    /*                margin-top:450px;*/
+    /*            }*/
+    /*        }*/
+    /*        .button2{*/
+    /*            img{*/
+    /*                margin-left:850px;*/
+    /*                margin-top:450px;*/
+    /*            }*/
+    /*        }*/
+        
+    /*       img{*/
+    /*           padding-top: 0px;*/
+    /*           display: inline-block;*/
+    /*           max-width: cover;*/
+    /*           width: 100%;*/
+    /*           height: 100%;*/
+    /*           object-fit: cover*/
+    /*           margin:auto;*/
+    /*           margin-top:0px;*/
+    /*           margin-left:0px;*/
+    /*           margin-left:0px;*/
+    /*           z-index: 2;*/
+    /*        position:absolute;*/
+            
+    /*       }*/
+           
+           
+           /*.button1{*/
+           /*    display: flex;*/
+           /*    justify-content: center;*/
+           /*    align-items: center;*/
+           /*    min-height: 100vh;*/
+               
+           /*}*/
+           /* .button2{*/
+           /*     display:flex;*/
+           /*     justify-content: center;*/
+           /*     top: 400px;*/
+           /*     margin: auto;*/
+           /*         margin-top:25%;*/
+           /*         margin-left:25%;*/
+           /*         margin-right:25%;*/
+           /*         margin-bottom: 50%;*/
+           /* }*/
+           
+    /*       .parent-container{*/
+    /*           display: flex;*/
+    /*           flex-direction: row;*/
+    /*           justify-content: center;*/
+    /*           align-items: center;*/
+    /*           min-height: 100vh;*/
+               
+    /*       }*/
+           
+           
+           /*.container{*/
+           /*    width: 50%;*/
+           /*    height: 100%;*/
+           /*    display: flex;*/
+           /*   justify-content:center;*/
+              /*align-items: center;*/
+           /*   position: absolute;*/
+           /*   top: 20px;*/
+           /*    background-color: white;*/
+           /*  margin: auto;*/
+           /*     margin-top:0px;*/
+           /*      margin-left:25%;*/
+           /*     margin-right:25%;*/
+           /*     margin-bottom:0px;*/
+             
+                
+           /*}*/
+           
+
+            
+            
+            
+     
+      /*<img: url("https://codehs.com/uploads/8096e3135ece0b83168c335df614c488");*/
